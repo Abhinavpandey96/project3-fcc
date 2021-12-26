@@ -1,0 +1,17 @@
+n
+header{
+    display:inline;
+    flex: auto;
+    color: black;
+    background:white;
+}
+#header-img{
+    width: 150px;
+}
+body{
+    background-color: blueviolet;
+}
+
+.flex-box{
+    display: flex;
+}
